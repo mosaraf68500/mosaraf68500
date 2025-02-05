@@ -27,22 +27,22 @@ I'm on a mission to enhance my skills in Full Stack Development, focusing on per
 **Current Learning Focus:**
 - ✅ Advanced MERN Stack Development
 
-- **Next.js, TypeScript, Performance Optimization
-- **State Management (Redux Toolkit, Zustand)
+- **Next.js, TypeScript, Performance Optimization**
+- **State Management (Redux Toolkit, Zustand)**
 - ✅ Database Optimization & High Availability
 
-- **MongoDB Sharding, Indexing, Replication
-- **PostgreSQL for relational data & NoSQL integration
+- **MongoDB Sharding, Indexing, Replication**
+- **PostgreSQL for relational data & NoSQL integration**
 
 ---
 
 **📌 Upcoming Learning Plans:**
-🔹 Deep dive into GraphQL for scalable APIs
-🔹 Implementing Edge Computing & Cloud Functions
-🔹 Mastering Testing & Debugging (Jest, Cypress, Mocha)
-🔹 Exploring Blockchain & Web3 Development
+- 🔹 Deep dive into GraphQL for scalable APIs
+- 🔹 Implementing Edge Computing & Cloud Functions
+- 🔹 Mastering Testing & Debugging (Jest, Cypress, Mocha)
+- 🔹 Exploring Blockchain & Web3 Development
 
-🚀 Follow my journey on GitHub as I build scalable and optimized web applications!
+- 🚀 Follow my journey on GitHub as I build scalable and optimized web applications!
 ---
 
 I am open to discussing new opportunities, please reach out at [monir.cse6.bu@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTLGfHGcXKqctjQpBMPMVdzBvlDQMnjWXPCzCGCRKDJdRzlgPnDWVNhzGGcnwTdjstTnQq)
