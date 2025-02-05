@@ -1,9 +1,7 @@
-### Hi there 👋, I am Mosaraf Hossen
-#### Full Stack Web Developer (MREN)
-![Full Stack Web Developer (MREN)](https://scontent.fdac181-1.fna.fbcdn.net/v/t39.30808-1/423674979_1113074133211041_2427795119380798202_n.jpg?stp=c492.331.491.491a_dst-jpg_s200x200_tt6&_nc_cat=108&ccb=1-7&_nc_sid=e99d92&_nc_ohc=VXx0_O7KtScQ7kNvgH9tWO1&_nc_zt=24&_nc_ht=scontent.fdac181-1.fna&_nc_gid=AjjofARhG5N2ATfPhTQMdSM&oh=00_AYCvRmqV282JixsVUKSULCOWbxWGxuve5S6XNnuqPoZe3g&oe=67A8D4D0)
+### Hi there 👋,
+![Full Stack Web Developer (MREN)](https://media.licdn.com/dms/image/v2/D4E16AQGkt3NMumV-1g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738738624464?e=1744243200&v=beta&t=8GPzKKMRZrkFEWbGyur3phOv8bOfSo_hiN-mlT9_Czg)
 
 About Me: <br>
-
 I am a Computer Science & Engineering graduate from the University of Barisal (2024).Currently learning to be a full-stack MERN developer.
 
 As a web developer with 1+ years of working experience, I specialize in full-stack development but adapt quickly to any technology as needed. Over my career, I've completed 20+ projects and eager to contribute to open source projects
@@ -26,10 +24,4 @@ Skills: HTML5/ CSS3/Tailwind CSS/ DaisyUI/ JavaScript/React JS/Node JS/Express J
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mosaraf68500)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mosaraf68500&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/mosaraf68500/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/mosaraf68500)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mosaraf68500)  
 
