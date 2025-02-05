@@ -1,5 +1,5 @@
 ### Hey there! 👋  
-![I am a Graduate in Computer Science & Engineering from the University of Barisal.](https://media.licdn.com/dms/image/v2/D4E16AQGkt3NMumV-1g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738738624464?e=1744243200&v=beta&t=8GPzKKMRZrkFEWbGyur3phOv8bOfSo_hiN-mlT9_Czg)  
+![I am a Graduate in Computer Science & Engineering from the University of Barisal.](https://media.licdn.com/dms/image/v2/D4E16AQGp305AJEZKAw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738782480398?e=1744243200&v=beta&t=R69GXD2t2-7UcCFA68hEG_RgcIDAjgX6D_Y_GvKDzH8)  
 
 #### About Me  
 I am a **Computer Science & Engineering graduate** from the University of Barisal (2026). Currently learning full stack MERN development.
