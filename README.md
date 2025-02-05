@@ -25,23 +25,23 @@ I'm on a mission to enhance my skills in Full Stack Development, focusing on per
 ---
 
 **🔥 Current Learning Focus:**
-✅ Advanced MERN Stack Development
+- ✅ Advanced MERN Stack Development
 
-**Next.js, TypeScript, Performance Optimization
-**State Management (Redux Toolkit, Zustand)
-✅ Database Optimization & High Availability
+- **Next.js, TypeScript, Performance Optimization
+- **State Management (Redux Toolkit, Zustand)
+- ✅ Database Optimization & High Availability
 
-**MongoDB Sharding, Indexing, Replication
-**PostgreSQL for relational data & NoSQL integration
-✅ DevOps & Cloud Computing
+- **MongoDB Sharding, Indexing, Replication
+- **PostgreSQL for relational data & NoSQL integration
+- ✅ DevOps & Cloud Computing
 
-**Docker, Kubernetes, CI/CD Pipelines (GitHub Actions, Jenkins)
-**AWS Lambda, Firebase Functions (Serverless Architecture)
+- **Docker, Kubernetes, CI/CD Pipelines (GitHub Actions, Jenkins)
+- **AWS Lambda, Firebase Functions (Serverless Architecture)
 
-✅ Security & Best Practices
+- ✅ Security & Best Practices
 
-**Authentication (JWT, OAuth, SSO)
-**Web Security (XSS, CSRF, SQL Injection Prevention)
+- **Authentication (JWT, OAuth, SSO)
+- **Web Security (XSS, CSRF, SQL Injection Prevention)
 ---
 
 **📌 Upcoming Learning Plans:**
