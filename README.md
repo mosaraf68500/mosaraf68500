@@ -2,25 +2,55 @@
 ![I am a Graduate in Computer Science & Engineering from the University of Barisal.](https://media.licdn.com/dms/image/v2/D4E16AQGkt3NMumV-1g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738738624464?e=1744243200&v=beta&t=8GPzKKMRZrkFEWbGyur3phOv8bOfSo_hiN-mlT9_Czg)  
 
 #### About Me  
-I am a **Computer Science & Engineering graduate** from the University of Barisal (2024). Currently working as Full Stack MERN Developer at bdCalling It Ltd Dhaka, Bangladesh.  
+I am a **Computer Science & Engineering graduate** from the University of Barisal (2026). Currently learning full stack MERN development.
 
 As a **web developer** with 2+ years of working experience, I specialize in **full-stack development** but adapt quickly to any technology as needed. Over my career, I've completed **20+ projects** and eager to contribute to open source projects.
 
 ---
 
 **Skills:**  
-- **Frontend:** React.js, Next.js  
-- **Backend:** Node.js, Express.js, Nest.js  
-- **Databases:** MongoDB, MySQL, PostgreSQL  
-- **DevOps:** Docker  
-- **Other Skills:** Microservices Architecture  
+- **Frontend:** HTML5, CSS3, Tailwind CSS, DaisyUI, Bootstrap, React JS, JavaScript
+- **Backend:** Node.js, Express.js  
+- **Databases:** MongoDB, MySQL  
+- **DevOps:** Docker (Currently learning) 
+- **Other Skills:** OOP,Data Structure & Algorithm(basic),Data Communication & Computer Networking  
 
 ---
 
 
 **Learning Goals:**  
-🎯 Expanding expertise in **microservices** and improving scalability in web applications.  
+🎯  Expanding Expertise in Full-Stack & Scalable Web Development
+I'm on a mission to enhance my skills in Full Stack Development, focusing on performance, scalability, and cutting-edge technologies.  
 
+---
+
+**🔥 Current Learning Focus:**
+✅ Advanced MERN Stack Development
+
+**Next.js, TypeScript, Performance Optimization
+**State Management (Redux Toolkit, Zustand)
+✅ Database Optimization & High Availability
+
+**MongoDB Sharding, Indexing, Replication
+**PostgreSQL for relational data & NoSQL integration
+✅ DevOps & Cloud Computing
+
+**Docker, Kubernetes, CI/CD Pipelines (GitHub Actions, Jenkins)
+**AWS Lambda, Firebase Functions (Serverless Architecture)
+
+✅ Security & Best Practices
+
+**Authentication (JWT, OAuth, SSO)
+**Web Security (XSS, CSRF, SQL Injection Prevention)
+---
+
+**📌 Upcoming Learning Plans:**
+🔹 Deep dive into GraphQL for scalable APIs
+🔹 Implementing Edge Computing & Cloud Functions
+🔹 Mastering Testing & Debugging (Jest, Cypress, Mocha)
+🔹 Exploring Blockchain & Web3 Development
+
+🚀 Follow my journey on GitHub as I build scalable and optimized web applications!
 ---
 
 I am open to discussing new opportunities, please reach out at [monir.cse6.bu@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTLGfHGcXKqctjQpBMPMVdzBvlDQMnjWXPCzCGCRKDJdRzlgPnDWVNhzGGcnwTdjstTnQq)
