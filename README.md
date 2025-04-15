@@ -3,9 +3,6 @@
   <img src="https://media.licdn.com/dms/image/v2/D4E16AQGp305AJEZKAw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738782480398?e=1750291200&v=beta&t=V5DrVSDzme-vc8oRZmdJOLSF99PhPxzbD4oDYGwFMNk" alt="Banner" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/120839822?v=4" alt="Mosaraf Hossen" width="150" style="border-radius: 50%;" />
-</p>
 
 
 
