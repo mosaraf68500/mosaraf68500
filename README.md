@@ -1,5 +1,14 @@
-### Hey there! 👋  
-![I am a Graduate in Computer Science & Engineering from the University of Barisal.](https://media.licdn.com/dms/image/v2/D4E16AQGp305AJEZKAw/profile-displaybackgroundimage-shrink_350_1400/0/1738782480398?e=1744243200&v=beta&t=R69GXD2t2-7UcCFA68hEG_RgcIDAjgX6D_Y_GvKDzH8)
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQGp305AJEZKAw/profile-displaybackgroundimage-shrink_350_1400/0/1738782480398?e=1744243200&v=beta&t=R69GXD2t2-7UcCFA68hEG_RgcIDAjgX6D_Y_GvKDzH8" alt="Banner" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/120839822?v=4" alt="Mosaraf Hossen" width="150" style="border-radius: 50%;" />
+</p>
+
+<h3 align="center">Hey there! 👋</h3>
+
+---
 
 #### About Me  
 I am a **Computer Science & Engineering graduate** from the University of Barisal (2026). Currently learning full-stack MERN development.
