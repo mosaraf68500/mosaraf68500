@@ -1,6 +1,6 @@
 <p align="center">
   <h3 align="center">Hey there! 👋</h3>
-  <img src="https://media.licdn.com/dms/image/v2/D4E16AQGp305AJEZKAw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738782480398?e=1750291200&v=beta&t=V5DrVSDzme-vc8oRZmdJOLSF99PhPxzbD4oDYGwFMNk" alt="Banner" width="100%" />
+  <img src="https://www.linkedin.com/in/mosaraf-hossen-a02553311/overlay/background-image/" />
 </p>
 
 
