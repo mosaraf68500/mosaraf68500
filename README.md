@@ -25,12 +25,19 @@ I am eager to collaborate on innovative projects, solve challenging problems, an
 
 ---
 
-### 💡 Skills  
-**Frontend:** HTML5, CSS3, Tailwind CSS, DaisyUI, Bootstrap, React JS, JavaScript  
-**Backend:** Node.js, Express.js  
-**Databases:** MongoDB, MySQL  
+### 💡 Skills
+
+**Programming Languages:** C | C++ | JavaScript | Java (Basic) | PHP (Basic)  
+**Frontend:** HTML5 | CSS3 | Bootstrap | Tailwind CSS | DaisyUI | MumbaUI | Material UI | ReactJS | JavaScript  
+**Backend:** Node.js | Express.js | MySQL | MongoDB  
+**Databases:** MongoDB | MySQL  
+**Version Control:** Git | GitHub  
+**Authentication:** Firebase | JSON Web Token (JWT)  
+**Design & Tools:** Figma | Pixso | Vercel | Netlify  
 **DevOps:** Docker (Currently learning)  
-**Other Skills:** OOP, Data Structure & Algorithms (basic), Data Communication & Computer Networking  
+**Other Skills:** OOP | Data Structure & Algorithms (basic) | Data Communication & Computer Networking  
+**Soft Skills:** Volunteering | Time Management | Adaptability | Teamwork
+
 
 ---
 
