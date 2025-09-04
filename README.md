@@ -8,10 +8,20 @@
 
 ---
 
-#### About Me  
-I am a **Computer Science & Engineering graduate** from the University of Barisal (2026). Currently learning full-stack MERN development.
+#### About Me
+I am a **Computer Science & Engineering graduate** from the University of Barisal (Class of 2026), currently focused on full-stack MERN development.
 
-As a **web developer** with 1+ years of experience, I specialize in **full-stack development** but adapt quickly to any technology as needed. Over my career, I've completed **20+ projects** and am eager to contribute to open-source initiatives.
+As a **web developer** with 1+ years of experience, I specialize in **full-stack development** while quickly adapting to new technologies as needed. I have successfully completed **20+ projects**, ranging from responsive web applications to dynamic full-stack platforms. My passion lies in transforming ideas into efficient, user-friendly digital solutions and continuously learning to stay updated in the fast-evolving tech industry.
+
+I enjoy building **scalable web applications**, implementing robust backend systems, and crafting intuitive front-end interfaces. I am also enthusiastic about **open-source collaboration** and actively seek opportunities to contribute to developer communities.
+
+You can explore my portfolio to see my projects and technical skills in action: [Your Portfolio Link]
+
+📞 Contact: +8801783176838  
+✉️ Email: mosaraf.cse8.bu@gmail.com
+
+I am eager to collaborate on innovative projects, solve challenging problems, and make a meaningful impact through technology. Let’s connect and create something amazing together!
+
 
 ---
 
