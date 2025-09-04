@@ -27,14 +27,24 @@ I am eager to collaborate on innovative projects, solve challenging problems, an
 
 ---
 
-📨 **Let's Connect:**  
-📧 [mosaraf.cse8.bu@gmail.com](mailto:mosaraf.cse8.bu@gmail.com)
+📨 <strong>Let's Connect:</strong><br>
+📧 <a href="mailto:mosaraf.cse8.bu@gmail.com">mosaraf.cse8.bu@gmail.com</a><br><br>
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/mosaraf.hossion.94)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mosaraf-hossen-a02553311/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mosaraf68500)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://mosaraf-hossen-portfolio.netlify.app/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/mosaraf38)
+<a href="https://www.facebook.com/mosaraf.hossion.94" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
+</a>
+<a href="https://www.linkedin.com/in/mosaraf-hossen-a02553311/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://github.com/mosaraf68500" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://mosaraf-hossen-portfolio.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=github&logoColor=white" alt="Portfolio">
+</a>
+<a href="https://x.com/mosaraf38" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
+</a>
 
 ---
 
