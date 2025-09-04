@@ -40,7 +40,7 @@ I am eager to collaborate on innovative projects, solve challenging problems, an
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
 </a>
 <a href="https://mosaraf-hossen-portfolio.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=github&logoColor=white" alt="Portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-FE7F00?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio">
 </a>
 <a href="https://x.com/mosaraf38" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
