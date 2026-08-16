@@ -1,6 +1,6 @@
 <p align="center">
   <h3 align="center">Hey there! 👋</h3>
-  <img src="https://media.licdn.com/dms/image/v2/D4E16AQHfrnLBQ7O4Ow/profile-displaybackgroundimage-shrink_350_1400/B4EZjl7W4KGoAY-/0/1756204205428?e=1776297600&v=beta&t=eHjY7U2QcDssJO8ElWjISG-gluc_VpdXPXrptZ4aZzc"/>
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQGXf-jPsDH3rQ/profile-displaybackgroundimage-shrink_350_1400/B56Z_WvdA3GQAU-/0/1786014191912?e=1788393600&v=beta&t=-ctvx3soe4f9-upURb1Ul8Ggo4R55X-IR8K0_-fEevY"/>
 </p>
 
 
